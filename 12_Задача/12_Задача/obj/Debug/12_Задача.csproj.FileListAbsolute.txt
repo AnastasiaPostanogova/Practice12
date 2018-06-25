@@ -1,0 +1,7 @@
+C:\Users\npost\Desktop\Практика\12_Задача\12_Задача\obj\Debug\12_Задача.csprojAssemblyReference.cache
+C:\Users\npost\Desktop\Практика\12_Задача\12_Задача\obj\Debug\12_Задача.csproj.CoreCompileInputs.cache
+C:\Users\npost\Desktop\Практика\12_Задача\12_Задача\bin\Debug\12_Задача.exe.config
+C:\Users\npost\Desktop\Практика\12_Задача\12_Задача\bin\Debug\12_Задача.exe
+C:\Users\npost\Desktop\Практика\12_Задача\12_Задача\bin\Debug\12_Задача.pdb
+C:\Users\npost\Desktop\Практика\12_Задача\12_Задача\obj\Debug\12_Задача.exe
+C:\Users\npost\Desktop\Практика\12_Задача\12_Задача\obj\Debug\12_Задача.pdb
